@@ -1,6 +1,6 @@
 Name     : jdk-calcite
 Version  : 1.2.0
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/apache/calcite/calcite/1.2.0-incubating/calcite-1.2.0-incubating.pom
 Source0  : http://repo2.maven.org/maven2/org/apache/calcite/calcite/1.2.0-incubating/calcite-1.2.0-incubating.pom
 Source1  : http://repo2.maven.org/maven2/org/apache/calcite/calcite-avatica/1.2.0-incubating/calcite-avatica-1.2.0-incubating.jar
